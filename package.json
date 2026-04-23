@@ -1,0 +1,26 @@
+{
+  "name": "webtutorial.djangomombasa.org",
+  "version": "1.0.0",
+  "description": "Django Web Development Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "build": "honkit build",
+    "serve": "honkit serve",
+    "clean": "rm -rf _book"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Django-Mombasa/webtutorial.djangomombasa.org.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Django-Mombasa/webtutorial.djangomombasa.org/issues"
+  },
+  "homepage": "https://github.com/Django-Mombasa/webtutorial.djangomombasa.org#readme",
+  "devDependencies": {
+    "honkit": "^6.1.7"
+  }
+}
